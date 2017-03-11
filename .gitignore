@@ -1,13 +1,24 @@
-# Personal config files
-config.ini
-
 # Byte-compiled Python
 __pycache__/
 *.pyc
+*.so
+*.pyd
 
 # Windows folders files
 Desktop.ini
 Thumbs.db
 
-# .NFO files
-*.nfo
+# IDE
+.project
+.pydevproject
+.settings/
+.spyderproject
+.spyproject
+.vscode/
+.idea/
+
+# Build generated files
+build/
+dist/
+.eggs/
+*.egg-info/
