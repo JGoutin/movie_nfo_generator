@@ -1,0 +1,13 @@
+# Personal config files
+config.ini
+
+# Byte-compiled Python
+__pycache__/
+*.pyc
+
+# Windows folders files
+Desktop.ini
+Thumbs.db
+
+# .NFO files
+*.nfo
